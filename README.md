@@ -4,24 +4,25 @@
 
 ***Engineering × Design = Powerful***🔥
 
-### Things I code with
+### 🛠️ My Coding Arsenal
 
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+![Language](https://skillicons.dev/icons?i=html,css,sass,js,ts,cs)
 
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
-[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+### 🧰 Tools from My Dev Toolkit 
+
+![Library](https://skillicons.dev/icons?i=jquery,react,vue,materialui)
+
+### 🚀 Frameworks That Fuel My Journey
+
+![Framework](https://skillicons.dev/icons?i=nextjs,bootstrap,tailwind,jest,dotnet)
+
+### 🎨 My Creative Playground
+
+![Design](https://skillicons.dev/icons?i=figma,ai,ps,xd)
+
+### 🌐 Tech Extras
+
+![Others](https://skillicons.dev/icons?i=azure)
 
 
 ## Recent Activities
